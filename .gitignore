@@ -1,0 +1,72 @@
+# Dependencies
+node_modules/
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+.eggs/
+venv/
+.venv/
+env/
+.env
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.project
+.classpath
+.settings/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+*.tmp
+
+# Build outputs
+*.o
+*.so
+*.dylib
+*.exe
+*.out
+*.bin
+
+# Logs
+*.log
+logs/
+
+# Test / Coverage
+.coverage
+htmlcov/
+.pytest_cache/
+.tox/
+.nox/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Compiled Python
+*.pyd
+
+# Rust
+target/
+Cargo.lock
+
+# Go
+go.sum
+
+# C/C++
+*.d
+*.obj
+*.a
+*.lib
+
+# Misc
+*.bak
+*.swp
+.cache/
